@@ -1,5 +1,3 @@
-(formatting is a WIP)
-
 # Introducing Autonomous Task Orchestration Manager (ATOM) Framework
 
 ## Abstract
@@ -148,3 +146,20 @@ While the ATOM Framework offers a promising approach to task management in auton
 Moreover, the ATOM Framework can benefit from incorporating advances in AI research, such as transfer learning, meta-learning, and human-AI collaboration. These advancements can further enhance the framework's adaptability, efficiency, and effectiveness in managing tasks across diverse domains and scenarios.
 
 In conclusion, the ATOM Framework represents a significant step towards addressing the challenges of task management in autonomous AI systems. By combining insights from cognitive control, heuristic imperatives, and modern AI technologies, the ATOM Framework offers a versatile and powerful solution for managing tasks in an increasingly complex and dynamic world. As AI systems continue to advance and become more integrated into our lives, the ATOM Framework can serve as a foundation for the development of AI systems that are not only more capable but also more aligned with human values and interests.
+
+# Bibliography
+
+## Neuroscience
+
+- Badre, David. *On Task: How Our Brain Gets Things Done.* Princeton, 2020.
+- Churchland, Patricia. *Braintrust: What Neuroscience Tells Us about Morality.* Princeton, 2018.
+- Quiroga, Rodrigo Quian. *The Forgetting Machine: Memory, Perception, and the Jennifer Aniston Neuron.* BenBella Books, 2017.
+- Hawkins, Jeff. *A Thousand Brains.* Basic Books, 2021.
+- Ramachandran, VS. *Phantoms in the Brain.* Harper Perennial, 1998.
+- Sapolsky, Robert M. *Behave: The Biology of Humans at our Best and Worst.* Penguin, 2017.
+
+## Computer Science
+
+- Fielding, Roy Thomas (2000) *Architectural Styles and the Design of Network-based Software Architectures.* [PhD Dissertation] UC Irvine.
+- Abrahamsson, Salo, Ronkainen, Warsta (2002) *Agile Software Development Methods: Review and Analysis* [VTT publication 478, Espoo, Finland, 107p.]
+- Laird, John E. *The Soar Cognitive Architecture.* MIT, 2012
